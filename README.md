@@ -3,3 +3,7 @@ We will be creating a code that will help control entrances in public places.The
 Base of recurrence of gun violence in public space during the pass 10 years targeting schools and publics edifices, some states passed a law allowing concealed firearms while in public space. We beleive that it's one step out of many, out of other options we tought this sensors detectors and cameras will be more efficient. 
 
 https://github.com/RobinDavid/Motion-detection-OpenCV/blob/master/MotionDetector.py
+
+https://github.com/sofwerx/tensorflow-gun-detection/blob/master/CameraMotionDetection.py
+
+
