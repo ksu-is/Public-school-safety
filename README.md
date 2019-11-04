@@ -6,4 +6,12 @@ https://github.com/RobinDavid/Motion-detection-OpenCV/blob/master/MotionDetector
 
 https://github.com/sofwerx/tensorflow-gun-detection/blob/master/CameraMotionDetection.py
 
+Installation 
 
+Python >= 3.5
+
+  pip install publicshoolsafety.py
+  
+    . Motion detectors: security department. Motion detectors
+    . Cameras: security department. Cameras 
+    . sensors: security department. Sensors
