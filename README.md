@@ -4,8 +4,6 @@ Base of recurrence of gun violence in public space during the pass 10 years targ
 
 https://github.com/RobinDavid/Motion-detection-OpenCV/blob/master/MotionDetector.py
 
-https://github.com/sofwerx/tensorflow-gun-detection/blob/master/CameraMotionDetection.py
-
 Installation 
 
 Python >= 3.5
