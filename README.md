@@ -4,8 +4,8 @@ Considering the recurrence of gun violence in public space during the pass 10 ye
 
 Refrences:
 
-https://github.com/RobinDavid/Motion-detection-OpenCV/blob/master/MotionDetector.py
-https://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/
+*Item 1 https://github.com/RobinDavid/Motion-detection-OpenCV/blob/master/MotionDetector.py
+*Item 1 https://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/
 
 ## Installation 
 
