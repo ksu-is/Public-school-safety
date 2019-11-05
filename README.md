@@ -5,7 +5,7 @@ Base of recurrence of gun violence in public space during the pass 10 years targ
 Refrences
 https://github.com/RobinDavid/Motion-detection-OpenCV/blob/master/MotionDetector.py
 
-Code Description
+Code Descriptions
 
 import cv2.cv as cv
 from datetime import datetime
@@ -14,8 +14,7 @@ import time
 Installation 
 
 Python >= 3.5
-
-  sudo easy_install pip
+sudo easy_install pip
   
     . Motion detectors: security department. Motion detectors
     . Cameras: security department. Cameras 
