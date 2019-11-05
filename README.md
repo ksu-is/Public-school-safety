@@ -5,7 +5,7 @@ Base of recurrence of gun violence in public space during the pass 10 years targ
 Refrences:
 https://github.com/RobinDavid/Motion-detection-OpenCV/blob/master/MotionDetector.py
 
-#Code Descriptions
+## Code Descriptions
 
 import cv2.cv as cv
 
@@ -13,7 +13,7 @@ from datetime import datetime
 
 import time
 
-Installation 
+## Installation 
 
 Python >= 3.5
 
