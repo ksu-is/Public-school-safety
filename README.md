@@ -8,12 +8,11 @@ https://github.com/RobinDavid/Motion-detection-OpenCV/blob/master/MotionDetector
 https://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/
 
 ## Code Descriptions
-
+```python
 import cv2.cv as cv
-
 from datetime import datetime
-
 import time
+```
 
 ## Installation 
 
