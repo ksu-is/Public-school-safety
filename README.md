@@ -7,6 +7,11 @@ Refrences:
 https://github.com/RobinDavid/Motion-detection-OpenCV/blob/master/MotionDetector.py
 https://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/
 
+## Installation 
+
+Python >= 3.5
+
+sudo easy_install pip
 ## Code Descriptions
 ```python
 import cv2.cv as cv
@@ -14,11 +19,6 @@ from datetime import datetime
 import time
 ```
 
-## Installation 
-
-Python >= 3.5
-
-sudo easy_install pip
  
 ## Motion function
  
