@@ -18,7 +18,9 @@ import time
 Python >= 3.5
 
 sudo easy_install pip
-  
+ 
+ Motion function
+ 
     . Motion detectors: security department. Motion detectors
     . Cameras: security department. Cameras 
     . sensors: security department. Sensors
