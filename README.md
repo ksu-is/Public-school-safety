@@ -16,6 +16,7 @@ import time
 Installation 
 
 Python >= 3.5
+
 sudo easy_install pip
   
     . Motion detectors: security department. Motion detectors
