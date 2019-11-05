@@ -13,7 +13,8 @@ from datetime import datetime
 
 import time
 
-Installation x
+Installation 
+
 Python >= 3.5
 sudo easy_install pip
   
