@@ -24,4 +24,4 @@ sudo easy_install pip
  
     . Motion detectors: security department. Motion detectors
     . Cameras: security department. Cameras 
-    . sensors: security department. Sensors
+    . Sensors: security department. Sensors
