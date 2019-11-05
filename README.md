@@ -8,6 +8,7 @@ https://github.com/RobinDavid/Motion-detection-OpenCV/blob/master/MotionDetector
 ## Code Descriptions
 
 import cv2.cv as cv
+
 from datetime import datetime
 
 import time
