@@ -26,11 +26,11 @@ import time
     . Cameras: security department. Cameras 
     . sensors: security department. Sensors
 
-Sprint 1 Roadmap - 
+Sprint Roadmap - 
 
 
-- [ ] 11/9 - Find additional code repositories with additional examples of what might work for our project
-- [ ] 11/14 - Test the repositories finalized/troubleshoot
-- [ ] 11/17 - Compile code/begin troubleshooting
-- [ ] 11/18 - Start Working with Raspberry Pi
+- [ ] 11/7 - Find additional code repositories with additional examples of what might work for our project
+- [ ] 11/10 - Test the repositories finalized/troubleshoot
+- [ ] 11/13 - Compile code/begin troubleshooting
+- [ ] 11/15 - Start Working with Raspberry Pi
 
