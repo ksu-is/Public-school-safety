@@ -25,12 +25,3 @@ import time
     . Motion detectors: security department. Motion detectors
     . Cameras: security department. Cameras 
     . sensors: security department. Sensors
-
-Sprint Roadmap - 
-
-
-- [ ] 11/7 - Find additional code repositories with additional examples of what might work for our project
-- [ ] 11/10 - Test the repositories finalized/troubleshoot
-- [ ] 11/13 - Compile code/begin troubleshooting
-- [ ] 11/15 - Start Working with Raspberry Pi
-
