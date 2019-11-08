@@ -8,4 +8,4 @@ Sprint Roadmap -
 7.
 8. Create a powerpoint for the project. 
 9. Rerun the code, and check for errors in the project. 
-10. Sumbit the final project. 
+10. Submit the final project. 
