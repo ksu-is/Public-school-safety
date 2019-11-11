@@ -1,5 +1,6 @@
 Sprint Roadmap - 
-_ [x] 1. Create a repository named projectroadmap.md - **`Alana`**
+
+- [x] 1. Create a repository named projectroadmap.md - **`Alana`**
 - [x] 2. Set up a list of development and coding task. - **`Alana`**
 - [ ] 3. Test the current code repositories, and if there are errors fix them up. 
 - [ ] 4. Obtain any software components needed to make the repository work. 
