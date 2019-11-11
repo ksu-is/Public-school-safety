@@ -5,7 +5,7 @@ Sprint Roadmap -
 - [ ] 4. Obtain a Raspberry Pi to work with.
 - [ ] 5. Set up the Raspberry Pi, so that it works.
 - [ ] 6. test task 
-- [ ] 7. if it is running well, confirm and validate.
+- [ ] 7. The outcome should be as describe in the safety project, confirm and validate.
 - [ ] 8. Create a powerpoint for the project. 
 - [ ] 9. Rerun the code, and check for errors in the project. 
 - [ ] 10. Submit the final project. 
