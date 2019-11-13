@@ -10,5 +10,5 @@ Sprint Roadmap -
 - [ ] 8. Test the Raspberry Pi with the python code to make sure it works. 
 - [x] 9. Import the Modified code into Github repository.- **`Denise`**
 - [ ] 10. Create a powerpoint for the project. 
-- [ ] 11. Return the code, and check for errors in the project. 
+- [ ] 11. Rerun the code, and check for errors in the project. 
 - [ ] 12. Submit the final project. 
