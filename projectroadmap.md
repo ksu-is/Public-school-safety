@@ -15,3 +15,5 @@ Sprint Roadmap -
 - [x] 10. Create and upload powerpoint for the project. - **`Alana`**
 - [ ] 11. Rerun the code, and check for errors in the project. 
 - [ ] 12. Submit the final project. 
+     - [ ] 1. Create Powerpoint slides
+     - [ ] 2. Voice record 
