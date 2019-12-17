@@ -14,7 +14,7 @@ Sprint Roadmap -
 - [ ] 8. Test the Raspberry Pi with the python code to make sure it works. 
 - [x] 9. Import the Modified code into Github repository.- **`Denise`**
 - [x] 10. Create and upload powerpoint for the project. - **`Alana`**
-- [ ] 11. Rerun the code, and check for errors in the project. 
-- [ ] 12. Submit the final project. 
-     - [ ] 1. Create Powerpoint slides
-     - [ ] 2. Voice record 
+- [x] 11. Rerun the code, and check for errors in the project. - **`Alana`**
+- [x] 12. Submit the final project. 
+     - [x] 1. Create Powerpoint slides- **`Alana`**
+     - [x] 2. Voice record - **`Alana`**
